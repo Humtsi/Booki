@@ -527,6 +527,7 @@ input::placeholder {
         width: 100%;
         gap: 0px;
     }
+    
     nav li:hover {
         color: var(--main-color);
         border-bottom: 2px var(--main-color) solid;
@@ -618,7 +619,7 @@ input::placeholder {
         flex-direction: column;
     }
 
-/************ Activités ***********/
+    /************ Activités ***********/
 
     .activites-cards {
         flex-direction: column;
